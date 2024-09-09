@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 36.550%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 31.096%;" class="progress-item"></span><span style="background-color: #555555;width: 23.056%;" class="progress-item"></span><span style="background-color: #3178c6;width: 9.298%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 36.555%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 31.100%;" class="progress-item"></span><span style="background-color: #555555;width: 23.058%;" class="progress-item"></span><span style="background-color: #3178c6;width: 9.287%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">9.30%</span>
+<span class="percent">9.29%</span>
 </li>
 
 
